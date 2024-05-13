@@ -1,5 +1,7 @@
 # Compose Training
  
-A repository to hold the different Android Applications I developed while learning Jetpack Compose. 
+## Advanced States Project
 
-Each project is stored in a seperate branch
+This project was a travel app to demonstrate creating and using state holders with compose's APIs and how coroutines are implemented with compose.
+One of the key features was using a custom 'Saver' object to store data and states that would survive recomposition and reconfiguration.
+
