@@ -1,4 +1,5 @@
 # Compose Training
  
-A repository to hold the different Android Applications I developed while learning Jetpack Compose
-added first project
+## State Project
+
+This project demonstrates using states and events to extract stateless composables, and how compose uses state changes to update the UI
