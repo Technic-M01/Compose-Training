@@ -1,5 +1,5 @@
 # Compose Training
  
-A repository to hold the different Android Applications I developed while learning Jetpack Compose. 
+A repository to hold the different Android Applications I developed and used while learning Jetpack Compose. 
 
-Each project is stored in a seperate branch
+Each project is stored in its own branch.
