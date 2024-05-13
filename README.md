@@ -1,4 +1,6 @@
 # Compose Training
  
-A repository to hold the different Android Applications I developed while learning Jetpack Compose
-added first project
+## Layouts Project
+
+This project demonstrates using basic compose elements like modifiers, alignments, lazy layouts, and slot APIs to create a demo app.
+It also utilizes Material Components for specific layout designs.
