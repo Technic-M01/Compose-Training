@@ -1,5 +1,6 @@
 # Compose Training
  
-A repository to hold the different Android Applications I developed while learning Jetpack Compose. 
+## Unit Testing Project
 
-Each project is stored in a seperate branch
+This project shows the new benefits compose brings to running unit tests for UI. 
+It demonstrates testing in isolation, testing merged and unmerged semantics trees, using synchronization, and how animations can affect testing. 
